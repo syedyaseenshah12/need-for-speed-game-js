@@ -11,6 +11,10 @@ Car Racing Game written in HTML, CCS and JavaScript.
 ## Demo
 You can view a live version [here](https://tinawebdev.github.io/need-for-js/).
 
+## Description
+Need for Speed Game is an exhilarating web-based racing game built with HTML, CSS, and JavaScript. Navigate through traffic, avoid obstacles, and collect points with smooth controls and dynamic animations. Enjoy an engaging and fun gameplay experience right in your browser!
+
+
 ## How to use
 * Open Terminal and change the current working directory to the location where you want the cloned directory to be made.
 * Download the repository using the [instruction](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
